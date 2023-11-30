@@ -13,13 +13,13 @@ const int analogOutPin = A0;  // Analog output pin that the LED is attached to
 int sensorValue = 0;  
 int out = 0; 
 // Wifi network station credentials
-#define WIFI_SSID "00000000000000"
-#define WIFI_PASSWORD "97662995+"
+#define WIFI_SSID "Wifi_Name"
+#define WIFI_PASSWORD "PassWord"
 // Telegram BOT Token 
-#define BOT_TOKEN "6514168177:AAHefslxluTFy27f4sZ_6qUfXVdrUCLnGcg"
+#define BOT_TOKEN "Bot Token...."
 
 
-#define CHAT_ID "812065317"
+#define CHAT_ID "ChatID..number"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 WiFiClientSecure secured_client;
