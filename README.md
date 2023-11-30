@@ -1,2 +1,3 @@
 # Telegram Data Logger
 The main intention of this project is to create a data logging system that will automatically and continuously . Telegram is the free cloud based masseging application and offers so many usefull features . The Main features of telegram because of which we are using telegram data logger is its cloud based working  and Teligram Bot API. 
+This project is giving the basic idea about the idea of using Telegram for data logging . When we create a data logger we'll aslo have to take care of the data storage. We must plan about where we can store the data that we are acquiring. This major proble is solved when we use telegrm . 
